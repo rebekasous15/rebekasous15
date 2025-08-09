@@ -7,3 +7,6 @@
 # Aprendendo:
 
 <img align="center" alt="Evs-Js" title="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<br>
+  
+  <a href="https://www.instagram.com/rebekasouz_/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
